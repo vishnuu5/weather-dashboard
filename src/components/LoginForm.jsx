@@ -230,10 +230,10 @@ function LoginForm() {
                 </div>
 
                 {/* Configuration status */}
-                <div className="mt-4 text-xs text-white/60 text-center space-y-1">
+               {/* <div className="mt-4 text-xs text-white/60 text-center space-y-1">
                     <p>Weather API: {import.meta.env.VITE_OPENWEATHER_API_KEY ? "✅ Configured" : "❌ Not configured"}</p>
                     <p>Backend: {hasSupabase ? "✅ Cloud" : "🟡 Demo Mode"}</p>
-                </div>
+                </div> */}
             </div>
         </div>
     )
