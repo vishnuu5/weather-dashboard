@@ -3,7 +3,7 @@
 A modern, responsive weather dashboard built with React.js, featuring real-time weather data, 5-day forecasts, and user authentication.
 
 ##Demo
-![Click](https://weather-dashboard-alpha-gilt.vercel.app)
+[Click](https://weather-dashboard-alpha-gilt.vercel.app)
 
 ## 🌟 Features
 
